@@ -1,1 +1,1 @@
-# gorilla-mux.api
+# gorilla-mux-api
